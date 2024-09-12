@@ -76,4 +76,3 @@ Contributions are welcome! Please submit a pull request or open an issue to disc
 ## Acknowledgments
 
 This project utilizes various open-source libraries and pre-trained models. Special thanks to the contributors of these projects.
-```
